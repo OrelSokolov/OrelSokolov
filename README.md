@@ -12,6 +12,12 @@ suites (behavior recorded from the real Ruby gems, replayed byte-for-byte
 in Crystal). Around it: FFI bridges to Python/Ruby/R, ports of C
 libraries, GUI experiments and desktop tooling.
 
+## 💖 Support my work
+
+- Donate (contact me: orelcokolov@gmail.com)
+- Hire me (the same email: orelcokolov@gmail.com)
+- Or make pull requests — to make these projects better
+
 ## 🛤 CRails — Rails on the most beautiful compiled language!
 
 **Framework core**
