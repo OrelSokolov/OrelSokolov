@@ -22,7 +22,7 @@ libraries, GUI experiments and desktop tooling.
 
 **Framework core**
 
-- [crails](https://github.com/OrelSokolov/crails) — CRails: Ruby on Rails fremawork implemented on Crystal with a few differences
+- [crails](https://github.com/OrelSokolov/crails) — CRails: Ruby on Rails framework implemented on Crystal with a few differences
 - [active_support.cr](https://github.com/OrelSokolov/active_support.cr) — ActiveSupport 8.1.4: core_ext, Duration, Inflector, Concern, Notifications, cache stores, I18n, TimeWithZone
 - [active_record.cr](https://github.com/OrelSokolov/active_record.cr) — ActiveRecord 8.1.4 for PostgreSQL: Relation, associations, validations, callbacks, transactions, migrations, encryption
 - [action_pack.cr](https://github.com/OrelSokolov/action_pack.cr) — ActionPack 8.1.4: controllers, routing, strong params, cookies/CSRF, HTTP caching, Live/SSE streaming
